@@ -1,0 +1,25 @@
+Google Drive
+
+-> Google Drive este un serviciu de stocare online a fisierelor. A fost lansat oficial in 2012, de catre Google.
+Google drive este o extensie a Google Docs, si o data ce este activata, link-ul de la Google Docs este inlocuit 
+cu cel de la Google Drive.
+
+->Exista aplicatii terte pentru Google Drive ce pot fi descarcate din Chrome. Aceste aplicatii ce ruleaza in 
+Google Chrome, pot executa modificari catre fisierele online. In afara de pagina web, Google Drive are nevoie
+de o platforma pentru a sincroniza fisierele.
+
+->Google Drive este disponibil pe: Mac-urile cu sisteme de operare Lion si Snow Leopard, pe PC-urile cu
+sistemele de operare Windows XP, Windows Vista, Windows 7 varianta OS, pe smartphone-urile si tabletele Android
+si pe iPone si iPad cu iOS.
+
+->Google Drive ofera utilizatorilor la inregistrare, 15 GB pentru o perioada nelimitata destinati depozitarii
+tip-Clouda fisierelor. Spatiul de depozitare, impartit intre Picasa si Google drive, poate fi marit prin
+plata lunara a unei rate, iar majorarea foate fi intre 100 GB(9,99 RON/luna) si 30 TB(1499,99 RON/luna).
+
+->Pagina web de la Google Drive
+Pe partea stanga avem un buton "new" de unde putem crea fisiere si foldere. Tot de la butonul "new" putem
+accesa si alte aplicatii oferite de Google(Google Docs, Google Sheets, Google Slides, Google Drawings).
+ Sub  butonul de "new" avem un meniu simplu de unde putem vedea: fisiere/foldere accesate 
+recent, fisiere/foldere favorite sau fisiere/foldere sterse. Sub meniu, vedem cat spatiu de stocare mai avem 
+disponibil. Pe partea dreapta putem: da share la un fisier/folder, obtine un link de la fisier/folder
+sau vedea informatii detaliate despre un fiser/folder.
