@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/f0c973d3-e46a-4e0d-b512-1212d7ccda56/resourceGroups/appsvc_windows_centralus/providers/Microsoft.Web/sites/amalia-datc-storage",
+    "appService.deploySubpath": "publish"
+}
